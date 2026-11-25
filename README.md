@@ -161,3 +161,5 @@ Returns the current status (`running`, `completed`, or `failed`), live `agent_tr
 
 ## 🛡️ Security & Ethics Notice
 Tinyfah performs **strictly passive, non-destructive inspection** (evaluating HTTP headers, cookie flags, DOM attributes, Subresource Integrity tags, and client-side library versions). It does not transmit active exploit payloads or perform destructive fuzzing.
+
+# automatic-carnival
